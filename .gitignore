@@ -1,0 +1,3 @@
+rsc/MNIST
+out/
+lightning_logs/
